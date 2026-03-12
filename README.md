@@ -24,6 +24,7 @@ The work focuses on how well LLMs:
 | Math | Arithmetic, algebra, word problems, rate/distance/time, proportional reasoning |
 | Logic | Deductive reasoning, syllogisms, constraint satisfaction, lateral thinking |
 | Multi-Step | Problems requiring multiple chained reasoning steps with intermediate states |
+| [Lumen Cinema](lumen-cinema/README.md) | Cinematic reasoning — story generation, visual specification, audio design, and render assembly |
 
 ---
 
@@ -64,4 +65,11 @@ evaluations/
 cases/
   worked-examples.md    # Annotated worked examples with model responses and scores
   failure-analysis.md   # Common failure modes and patterns observed across prompts
+lumen-cinema/
+  README.md             # Project Lumen Cinema — modular movie-creation engine overview
+  narrative-engine/     # Story structure, character arcs, scene cards, and dialogue
+  visual-engine/        # Scene descriptions, shot lists, and visual continuity
+  audio-engine/         # Music cues, sound design, and voice direction
+  render-engine/        # Timeline assembly, transition spec, and export parameters
+  evaluation/           # Cinema-specific metrics and evaluation framework
 ```
