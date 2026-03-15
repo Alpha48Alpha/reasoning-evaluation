@@ -3,6 +3,17 @@
 
 ---
 
+## Getting Started
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Alpha48Alpha/reasoning-evaluation.git
+cd reasoning-evaluation
+```
+
+---
+
 ## Overview
 
 This repository contains **200+ prompts** across mathematical, logical, and multi-step reasoning domains, evaluated to benchmark and improve **reasoning quality** in large language models.
